@@ -93,13 +93,18 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Designer
+👨🏿‍💻
+
+ DSA
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
+I love to do Data Structures and Algorithms. I enjoy the intellectual journey of discovering new patterns and solutions.
+It helps me  enhance the efficiency and improves me to approach challenges methodically.
+
+
 </Description>
 <Description>
-<strong>I like to Design</strong>
+{/* <strong>I like to Design</strong>
 <ul>
     <li>
         Web Design
@@ -107,13 +112,13 @@ I love to create design which speaks, Keep it clean, minimal and simple.
     <li>
         Mobile Apps
     </li>
-</ul>
+</ul> */}
 </Description>
 <Description>
-<strong>Tools</strong>
+<strong>language</strong>
 <ul>
     <li>
-       Figma
+       C++
     </li>
     
 </ul>
@@ -125,12 +130,12 @@ I love to create design which speaks, Keep it clean, minimal and simple.
     <Develope width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+ I focus on creating the user interface and user experience of a website or web application. 
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Html, Css, Js, React, Bootstrap, Tailwind etc.
 </p>
 </Description>
 <Description>
